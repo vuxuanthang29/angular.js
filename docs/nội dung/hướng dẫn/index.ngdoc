@@ -1,0 +1,191 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Facebook Code</title>
+<description>Meet the engineers who code Facebook</description>
+<link>https://code.facebook.com/</link>
+<item>
+<title>Automatically push commits to GitHub with FBShipIt</title>
+<description>
+We're open-sourcing a tool we developed internally to help manage our projects on GitHub.
+</description>
+<link>
+https://code.facebook.com/posts/1715560542066337/automatically-push-commits-to-github-with-fbshipit/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 20 Apr 2016 10:00:53 -0700</pubDate>
+<author>Fred Emmott</author>
+</item>
+<item>
+<title>
+Wangle — an asynchronous C++ networking and RPC library
+</title>
+<description>
+Wangle is a C++ library for building protocols, servers, and clients in an asynchronous, clean, composable, and scalable manner.
+</description>
+<link>
+https://code.facebook.com/posts/215466732167400/wangle-an-asynchronous-c-networking-and-rpc-library/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 20 Apr 2016 08:54:37 -0700</pubDate>
+<author>James Sedgwick</author>
+</item>
+<item>
+<title>Facebook Chef cookbooks</title>
+<description>
+This suite of cookbooks — along with a sample 'init' cookbook — will allow anyone who wants to use our model of Chef in their own environment to get started easily and quickly.
+</description>
+<link>
+https://code.facebook.com/posts/1909042435988955/facebook-chef-cookbooks/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Fri, 15 Apr 2016 17:06:13 -0700</pubDate>
+<author>Phil Dibowitz</author>
+</item>
+<item>
+<title>Automatic memory leak detection on iOS</title>
+<description/>
+<link>
+https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 13 Apr 2016 14:30:00 -0700</pubDate>
+<author>Grzegorz Pstrucha</author>
+</item>
+<item>
+<title>
+Building and managing iOS model objects with Remodel
+</title>
+<description>
+Remodel is an Objective-C code generation tool specialized for quickly creating and editing model objects.
+</description>
+<link>
+https://code.facebook.com/posts/1154141864616569/building-and-managing-ios-model-objects-with-remodel/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 13 Apr 2016 14:30:00 -0700</pubDate>
+<author>Colin Campbell</author>
+<author>Andrew Cuneo</author>
+<author>Gregory Moeck</author>
+</item>
+<item>
+<title>Powering Facebook experiences with AI</title>
+<description>
+Research from Facebook's Applied Machine Learning team is the backbone behind much of the Facebook experience.
+</description>
+<link>
+https://code.facebook.com/posts/804694409665581/powering-facebook-experiences-with-ai/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 13 Apr 2016 11:17:03 -0700</pubDate>
+<author>Joaquin Quiñonero Candela</author>
+</item>
+<item>
+<title>
+Introducing Facebook's new terrestrial connectivity systems — Terragraph and Project ARIES
+</title>
+<description>
+Connectivity Lab's two new terrestrial systems are focused on improving the speed, efficiency, and quality of internet connectivity around the world.
+</description>
+<link>
+https://code.facebook.com/posts/1072680049445290/introducing-facebook-s-new-terrestrial-connectivity-systems-terragraph-and-project-aries/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 13 Apr 2016 10:30:00 -0700</pubDate>
+<author>Neeraj Choubey</author>
+<author>Ali Yazdan Panah</author>
+</item>
+<item>
+<title>React Native: A year in review</title>
+<description>
+After just one year in the open source community, React Native has changed the way developers build on every major platform.
+</description>
+<link>
+https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 13 Apr 2016 10:20:00 -0700</pubDate>
+<author>Martin Konicek</author>
+</item>
+<item>
+<title>
+Open-sourcing ReDex: Making Android apps smaller and faster
+</title>
+<description>
+Optimizations to reduce the size of the bytecode and optimize its layout on disk helped achieve up to 30 percent faster startup times.
+</description>
+<link>
+https://code.facebook.com/posts/998080480282805/open-sourcing-redex-making-android-apps-smaller-and-faster/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Tue, 12 Apr 2016 14:00:00 -0700</pubDate>
+<author>Bert Maher</author>
+</item>
+<item>
+<title>
+Introducing Facebook Surround 360: An open, high-quality 3D-360 video capture system
+</title>
+<description>
+The system includes a design for the camera hardware and the accompanying stitching code that marries the video from 17 cameras, vastly reducing post-production effort and time.
+</description>
+<link>
+https://code.facebook.com/posts/1755691291326688/introducing-facebook-surround-360-an-open-high-quality-3d-360-video-capture-system/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Tue, 12 Apr 2016 10:50:00 -0700</pubDate>
+<author>Brian K Cabral</author>
+</item>
+<item>
+<title>Breaking ground at Clonee</title>
+<description/>
+<link>
+https://code.facebook.com/posts/1697901253762537/breaking-ground-at-clonee/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 06 Apr 2016 14:20:19 -0700</pubDate>
+<author>Niall McEntegart</author>
+</item>
+<item>
+<title>
+Under the hood: Building accessibility tools for the visually impaired on Facebook
+</title>
+<description>
+Leveraging Facebook's computer vision platform, automatic alternative text for photos helps create better experiences for the visually impaired community.
+</description>
+<link>
+https://code.facebook.com/posts/457605107772545/under-the-hood-building-accessibility-tools-for-the-visually-impaired-on-facebook/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Mon, 04 Apr 2016 21:00:00 -0700</pubDate>
+<author>Darío García García</author>
+<author>Manohar Paluri</author>
+<author>Shaomei Wu</author>
+</item>
+<item>
+<title>
+Engineering for nostalgia: Building a personalized "On This Day" experience
+</title>
+<description>
+Facebook combines user experience research and machine-learning algorithms to show you the memories you most likely want to see and share.
+</description>
+<link>
+https://code.facebook.com/posts/1748968875380127/engineering-for-nostalgia-building-a-personalized-on-this-day-experience/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Wed, 30 Mar 2016 11:26:42 -0700</pubDate>
+<author>Omid Aziz</author>
+<author>Manohar Paluri</author>
+</item>
+<item>
+<title>Mobile @Scale London recap</title>
+<description>
+Mobile @Scale London was about reaching across borders, improving platforms, and sharing code between organizations.
+</description>
+<link>
+https://code.facebook.com/posts/1566627733629653/mobile-scale-london-recap/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Tue, 29 Mar 2016 08:21:42 -0700</pubDate>
+<author>Jim Purbrick</author>
+</item>
+<item>
+<title>Dive into React Native performance</title>
+<description>
+We implemented several performance optimizations over the past year to make React Native app startup twice as fast.
+</description>
+<link>
+https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/?utm_source=codedot_rss_feed&utm_medium=rss&utm_campaign=RSS+Feed
+</link>
+<pubDate>Mon, 28 Mar 2016 09:15:24 -0700</pubDate>
+<author>Pieter De Baets</author>
+<author>Alexey Lang</author>
+<author>Frédéric Sagnes</author>
+<author>Tadeu Zagallo</author>
+</item>
+</channel>
+</rss>
